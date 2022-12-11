@@ -12,6 +12,8 @@ public static void main(String[] args) {
     Console cons = System.console();
     Boolean stop = false;
 
+    System.out.println("Welcome to your shopping cart");
+
     while (!stop) {
         // list
         // add <item>
